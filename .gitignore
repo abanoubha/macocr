@@ -1,0 +1,25 @@
+# macOS system metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode build artifacts & user settings
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserdata
+xcuserdata/
+*.xccheckout
+*.moved-aside
+*.derivedData
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Swift Package Manager build folder (if converted later)
+.build/
+.swiftpm/
