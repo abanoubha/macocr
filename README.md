@@ -21,7 +21,8 @@
 
 ```bash
 # Clone repository
-git clone [https://github.com/YOUR_USERNAME/macocr.git](https://github.com/YOUR_USERNAME/macocr.git)
+git clone https://github.com/abanoubha/macocr.git
+
 cd macocr
 
 # Compile executable with release optimizations
